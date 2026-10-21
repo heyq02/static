@@ -1,0 +1,41 @@
+package.json
+  h_a57efa94f24ca5 7-8
+  h_a57efa94f24ca5 24-26
+complex-orange/.gitignore
+  h_a57efa94f24ca5 1-7
+complex-orange/.vscode/extensions.json
+  h_a57efa94f24ca5 1-3
+complex-orange/.vscode/settings.json
+  h_a57efa94f24ca5 1-23
+complex-orange/AGENTS.md
+  h_a57efa94f24ca5 1-27
+complex-orange/README.md
+  h_a57efa94f24ca5 1-23
+complex-orange/package.json
+  h_a57efa94f24ca5 1-46
+complex-orange/pnpm-lock.yaml
+  h_a57efa94f24ca5 1-2137
+complex-orange/pnpm-workspace.yaml
+  h_a57efa94f24ca5 1-10
+complex-orange/src/index.ts
+  h_a57efa94f24ca5 1-3
+complex-orange/tests/index.test.ts
+  h_a57efa94f24ca5 1-6
+complex-orange/tsconfig.json
+  h_a57efa94f24ca5 1-20
+complex-orange/vite.config.ts
+  h_a57efa94f24ca5 1-23
+pnpm-lock.yaml
+  h_a57efa94f24ca5 172-175,179-193,359-361,363-364,366-367,369-371,373-374,376-380,382-386,388-392,394-398,400-404,406-410,412-416,418-423,425-430,432-437,439-444,446-451,453-458,460-465,467-472,474-478,480-484,486-490,492-496,498-501,503-506,508-511,513-516,518-521,523-526,528-532,534-538,540-544,546-550,552-556,558-562,564-568,570-575,577-582,584-589,591-596,598-603,605-610,612-617,619-624,626-630,632-636,638-642,644-648,650-652,654-655,658-1778,1782-1787,1790-1791,1794-1795,1800-1801,1806-1826,1829-1889,1894-1895,1902-1959,1964-1983,1986-1987,2022-2029,2044-2060,2079-2164,2166-2187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "631c6143753c0cc1fe0beb4d7ff93d656349244a",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
