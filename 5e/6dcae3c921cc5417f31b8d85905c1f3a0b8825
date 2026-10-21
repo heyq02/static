@@ -1,0 +1,16 @@
+package.json
+  h_a57efa94f24ca5 37-39
+pnpm-lock.yaml
+  h_a57efa94f24ca5 183,186,189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "5e6dcae3c921cc5417f31b8d85905c1f3a0b8825",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
