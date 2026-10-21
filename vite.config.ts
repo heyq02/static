@@ -27,10 +27,9 @@ export default defineConfig({
     tasks: {
       sponsorkit: {
         command: "vpx sponsorkit",
-        env: {
-          SPONSORKIT_GITHUB_TOKEN: process.env.SPONSORKIT_GITHUB_TOKEN,
-          SPONSORKIT_GITHUB_LOGIN: process.env.SPONSORKIT_GITHUB_LOGIN,
-        },
+        cache: {
+          env: ['SPONSORKIT_GITHUB_TOKEN', 'SPONSORKIT_GITHUB_LOGIN'],
+        }
       },
     }
   }
