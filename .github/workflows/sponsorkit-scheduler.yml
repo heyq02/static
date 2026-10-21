@@ -20,10 +20,7 @@ jobs:
         with:
           node-version: lts/*
 
-      - run: pnpm i
-
-      - name: Update sponsors
-        run: npm run build
+      - run: pnpm dlx sponsorkit
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: heyq02
