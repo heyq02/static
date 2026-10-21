@@ -8,3 +8,5 @@ peerDependencyRules:
     - vite
   allowedVersions:
     vite: "*"
+registries:
+  default: https://registry.npmjs.org/
