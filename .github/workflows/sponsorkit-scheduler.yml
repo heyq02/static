@@ -3,9 +3,9 @@ name: SponsorKit Scheduler
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   update-sponsors:
@@ -30,7 +30,7 @@ jobs:
         with:
           author_name: GitHub Actions
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: 'chore: update sponsors.svg [ci skip]'
+          message: "chore: update sponsors.svg [ci skip]"
           add: "sponsorkit/**"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
