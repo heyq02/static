@@ -18,10 +18,12 @@ export default defineConfig({
       typeAware: true,
       typeCheck: true,
     },
+    ignorePatterns: ["sponsorkit/**"],
   },
   fmt: {
     sortImports: true,
     sortPackageJson: true,
+    ignorePatterns: ["sponsorkit/**"],
   },
   run: {
     tasks: {
