@@ -1,0 +1,16 @@
+vite.config.ts
+  h_a57efa94f24ca5 26-36
+.github/workflows/sponsorkit-scheduler.yml
+  h_a57efa94f24ca5 15-16,18-19,21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "33239108cb3c78cf7adba1f7da91b32d1f19db3e",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
