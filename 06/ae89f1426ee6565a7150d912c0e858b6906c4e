@@ -1,0 +1,29 @@
+vite.config.ts
+  h_a57efa94f24ca5 1-26
+.gitignore
+  h_a57efa94f24ca5 2-7
+  h_a57efa94f24ca5 1
+.github/workflows/sponsorkit-scheduler.yml
+  h_a57efa94f24ca5 6,8,33
+package.json
+  h_a57efa94f24ca5 2-25,27-40
+pnpm-lock.yaml
+  h_a57efa94f24ca5 165-173,180,182-190,192-193,700-822,1060-1062,1070-1074,1148-1150,1292-1294,1380-1384,1394-1400,1475-1479,1796-1860,1864-1865,1867-1872,1874-1876,1878-1887,1889-1890,1892,1895,1902,1905-1910,1912-1914,1916-1925,1927-1928,1930,1936-1958,1981,1989,1997,2008-2009,2079-2080,2087-2098,2142-2143,2215,2238,2249,2271,2277-2278,2305,2336,2346,2355,2380-2402,2418-2422,2426-2428,2433-2434,2436-2437,2482,2485,2496,2499-2500,2503-2510,2512-2523,2529-2530
+sponsorkit/.cache.json
+  h_a57efa94f24ca5 1
+sponsorkit/sponsors.json
+  h_a57efa94f24ca5 1
+tests/index.test.ts
+  h_a57efa94f24ca5 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "06ae89f1426ee6565a7150d912c0e858b6906c4e",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
