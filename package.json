@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:sponsorkit": ""
   },
   "keywords": [],
   "author": "",
@@ -20,5 +21,8 @@
   "type": "module",
   "dependencies": {
     "sponsorkit": "18.0.0"
+  },
+  "devDependencies": {
+    "vite-plus": "1.3.0"
   }
 }
