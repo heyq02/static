@@ -1,0 +1,16 @@
+sponsorkit.config.ts
+  h_a57efa94f24ca5 1-79
+vite.config.ts
+  h_a57efa94f24ca5 21,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "bb5f8a5038f0c7fd69cc08c570eb4b2de2b80438",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
