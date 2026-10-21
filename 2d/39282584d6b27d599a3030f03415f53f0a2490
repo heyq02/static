@@ -1,0 +1,14 @@
+.github/workflows/sponsorkit-scheduler.yml
+  h_a57efa94f24ca5 8,29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "2d39282584d6b27d599a3030f03415f53f0a2490",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
