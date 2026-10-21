@@ -30,7 +30,12 @@ export default defineConfig({
       sponsorkit: {
         command: "vpx sponsorkit",
         cache: {
-          env: ["SPONSORKIT_GITHUB_TOKEN", "SPONSORKIT_GITHUB_LOGIN", "SPONSORKIT_LIBERAPAY_LOGIN"],
+          env: [
+            "SPONSORKIT_GITHUB_TOKEN",
+            "SPONSORKIT_GITHUB_LOGIN",
+            "SPONSORKIT_LIBERAPAY_LOGIN",
+            "SPONSORKIT_KOFI_VERIFICATION_TOKEN",
+          ],
         },
       },
     },

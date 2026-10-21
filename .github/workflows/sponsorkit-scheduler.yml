@@ -25,6 +25,8 @@ jobs:
 
           SPONSORKIT_LIBERAPAY_LOGIN: heyq02
 
+          SPONSORKIT_KOFI_VERIFICATION_TOKEN: ${{ secrets.SPONSORKIT_KOFI_VERIFICATION_TOKEN }}
+
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
