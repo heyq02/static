@@ -23,6 +23,8 @@ jobs:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: heyq02
 
+          SPONSORKIT_LIBERAPAY_LOGIN: heyq02
+
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
