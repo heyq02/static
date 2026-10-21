@@ -1,0 +1,14 @@
+.github/FUNDING.yml
+  h_a57efa94f24ca5 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1aee74a4bbed2611e4510e6dc983a52b4f4085f2",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
