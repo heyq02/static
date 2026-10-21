@@ -23,4 +23,15 @@ export default defineConfig({
     sortImports: true,
     sortPackageJson: true,
   },
+  run: {
+    tasks: {
+      sponsorkit: {
+        command: "vpx sponsorkit",
+        env: {
+          SPONSORKIT_GITHUB_TOKEN: process.env.SPONSORKIT_GITHUB_TOKEN,
+          SPONSORKIT_GITHUB_LOGIN: process.env.SPONSORKIT_GITHUB_LOGIN,
+        },
+      },
+    }
+  }
 });

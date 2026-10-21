@@ -12,15 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-
-      - uses: pnpm/action-setup@v6
-
-      - name: Set node
-        uses: actions/setup-node@v6
+      
+      - uses: voidzero-dev/setup-vp@1.21.2
         with:
-          node-version: lts/*
+          node-version: "lts"
+          cache: true
 
-      - run: pnpm dlx sponsorkit
+      - run: vp run sponsorkit
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: heyq02
